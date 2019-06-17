@@ -4,5 +4,4 @@ language: R
 sudo: false
 cache: packages
 git:
-  depth: 50
-  quiet: true
+  depth: false
